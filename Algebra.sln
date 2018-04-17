@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algebra", "Algebra\Algebra.csproj", "{7A3D345B-34BE-4FAE-AA68-DA0B8FF33B80}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AlGebra V 0.1", "Setup1\Setup1.vdproj", "{D8BF0F06-5844-4946-974D-60204374AFF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3D345B-34BE-4FAE-AA68-DA0B8FF33B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3D345B-34BE-4FAE-AA68-DA0B8FF33B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3D345B-34BE-4FAE-AA68-DA0B8FF33B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3D345B-34BE-4FAE-AA68-DA0B8FF33B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BF0F06-5844-4946-974D-60204374AFF0}.Debug|Any CPU.ActiveCfg = Debug
+		{D8BF0F06-5844-4946-974D-60204374AFF0}.Release|Any CPU.ActiveCfg = Release
+		{D8BF0F06-5844-4946-974D-60204374AFF0}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

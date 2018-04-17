@@ -1,0 +1,16 @@
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\Algebra.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\Algebra.exe
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\Algebra.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.exe
+c:\users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.pdb
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.Main.resources
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Algebra\Algebra\obj\Debug\Algebra.inputbox.resources
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Algebra\Algebra\bin\Debug\DotNetZip.dll
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Algebra\Algebra\bin\Debug\DotNetZip.xml
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\idbella.dll
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\idbella.pdb
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Debug\Newtonsoft.Json.xml

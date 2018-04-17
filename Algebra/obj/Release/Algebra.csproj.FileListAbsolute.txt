@@ -1,0 +1,11 @@
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Release\Algebra.exe.config
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Release\Algebra.exe
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Release\Algebra.pdb
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\bin\Release\Newtonsoft.Json.dll
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.inputbox.resources
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.Main.resources
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.exe
+C:\Users\hp\documents\visual studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.pdb
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Algebra\Algebra\obj\Release\Algebra.csprojResolveAssemblyReference.cache
