@@ -161,7 +161,7 @@ namespace Algebra
                     {
                         RefreshList();
                     }
-                    catch { }
+                    catch(Exception e) { }
                 }
                 else if (!drag_point)
                 {
